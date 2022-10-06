@@ -32,4 +32,6 @@ O que a empresa precisa fazer para resolver isso?</p>
  Temos que fazer alguma ação para eles irem para as outras formas de pagamento.
 </p>
 
-<p> Intensivo de Python pela Hashtag Programação</p>
+---
+
+*Intensivo de Python pela Hashtag Programação*
